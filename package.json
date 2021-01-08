@@ -1,0 +1,16 @@
+{
+  "name": "kayizeraltyapi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "kayizer.js",
+  "scripts": {
+    "test": "node kayizer.js"
+  },
+  "author": "Arhan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^11.5.1",
+    "gamedig": "^2.0.23"
+  }
+}
