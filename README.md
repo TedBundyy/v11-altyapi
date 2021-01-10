@@ -18,4 +18,4 @@
 ```
 
 # DIKKAT!
-<h3>Bu altyapı <a href="https://discord.com/users/767845231583559745">Ted Bundy</a> tarafından <a href="https://discord.gg/kayizer/">Kayizer</a> için paylaşılmıştır değiştirilip başka sunucu/kişi adına adımızı geçirmeden paylaşılıması yasaktır!</h3>
+<h3>Bu altyapı <a href="https://discord.com/users/767845231583559745">Ted Bundy</a> tarafından <a href="https://discord.gg/gifstory/">Gifstory</a> için paylaşılmıştır değiştirilip başka sunucu/kişi adına adımızı geçirmeden paylaşılıması yasaktır!</h3>
