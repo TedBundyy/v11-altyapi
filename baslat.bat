@@ -1,5 +1,5 @@
 echo off
-title Kayizer V11 Bot Altyapi
+title GİF Story V11 Bot Altyapi
 color c
 cls
 :a
