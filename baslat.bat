@@ -1,5 +1,5 @@
 echo off
-title GİF Story V11 Bot Altyapi
+title GIF Story V12 Bot Altyapi
 color c
 cls
 :a
