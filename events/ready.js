@@ -14,6 +14,6 @@ module.exports = client => {
   /// dnd = Rahatsız Etme
   /// idle = Meşgul
   /// invisble = Çevrımdışı ( bot çalışır fakat çevrımdışı gözükür )
-  client.user.setActivity(`Kayizer.COM | Kullanıcıları İçin V11 Altyapı!`);
+  client.user.setActivity(`GIF Story | Kullanıcıları İçin V11 Altyapı!`);
   console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] BOT: Oyun ismi ayarlandı!`);
 };
